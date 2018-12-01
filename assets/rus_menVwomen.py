@@ -46,7 +46,7 @@ medals = [m,f]
 fig, ax = plt.subplots()
 plt.bar(x, medals)
 plt.xticks(x, ('RUSSIA Men', 'RUSSIA Women'))
-plt.title("Number of men and women from USA in the Olympics")
+plt.title("Number of men and women from RUSSIA in the Olympics")
 
 plt.show()
 
